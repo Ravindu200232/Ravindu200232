@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravindu Bandara</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
-<h1>😊 About Me:</h1><br>
+<h1>😊 About Me :</h1><br>
 <p>🎓 SLIIT | Third-Year Student: Diving deep into Software Engineering.
   <br>
 💻 Solution Builder: Crafting efficient, user-friendly web and mobile apps.<br>
