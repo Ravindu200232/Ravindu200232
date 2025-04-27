@@ -8,8 +8,8 @@
 📈 Project Experience: Skilled in both development and team leadership roles.<br>
 
 🔧 Tech Stack:<br>
-   • Frontend: React, Tailwind CSS<br>
-   • Backend: PHP, Java<br>
+   • Frontend: React, html, Tailwind CSS<br>
+   • Backend: Node,Php,Springboot<br>
    • Mobile: Kotlin (Android Studio)<br>
    • Database Savvy: Proficient in MongoDB & MySQL<br>
 
