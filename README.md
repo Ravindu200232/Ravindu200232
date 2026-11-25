@@ -6,7 +6,7 @@
   <a href="https://github.com/Ravindu200232">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ravindu-bandara-3b1627322">
+  <a href="https://www.linkedin.com/in/ravindu-bandara-subasinha-7a0136450">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ravindu2232@gmail.com">
@@ -47,6 +47,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Web & Mobile
 
@@ -61,6 +62,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
@@ -98,7 +101,7 @@ Full-Stack Development ███████████████████
 💬 Open to collaborations, AI projects, and software development opportunities
 
 <a href="https://github.com/Ravindu200232"><img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ravindu-bandara-3b1627322"><img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ravindu-bandara-subasinha-7a0136450"><img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn" /></a>
 <a href="mailto:ravindu2232@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="45" alt="Email" /></a>
 
 </div>
